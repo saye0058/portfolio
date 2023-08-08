@@ -1,0 +1,21 @@
+*{
+
+}
+
+@media screen and (max-width: 600px){
+    h1{display: flex;
+    justify-content: center;}
+   
+    .tital{
+        display: flex;
+        justify-content: center;
+    }
+
+
+    
+}
+
+@media screen and (max-width: 1200px) and (min-width: 601px) {
+  
+    
+}
